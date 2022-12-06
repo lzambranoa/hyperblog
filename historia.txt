@@ -1,5 +1,7 @@
-Es es el archivo inicial del curso de GIT y GITHUB
+Es es el archivo inicial del curso de GIT y GITHUB de platzi
 
 
 Mi nombres es Leonardo Zambrano tengo 43 años y estoy feliz aprendiendo cada 
 dia más como ser un desarrollador exitoso
+
+La meta sera convertirme en una gran fullstack
