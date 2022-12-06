@@ -1,1 +1,5 @@
 Es es el archivo inicial del curso de GIT y GITHUB
+
+
+Mi nombres es Leonardo Zambrano tengo 43 años y estoy feliz aprendiendo cada 
+dia más como ser un desarrollador exitoso
