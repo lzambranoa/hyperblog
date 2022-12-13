@@ -4,6 +4,10 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+p {
+    text-align: left;
+}
+
 #container {
     width: 850px;
     height: max-content;
